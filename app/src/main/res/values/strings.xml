@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="dice_label_hint">Enter dice sides</string>
+    <string name="history_placeholder">Roll history:</string>
+<string-array name="aabb">
+    <item>4</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+    <item>12</item>
+    <item>20</item>
+</string-array>
+</resources>
